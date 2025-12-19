@@ -1,0 +1,2 @@
+npm i -g json-server --Para instalar json-server
+npm start
